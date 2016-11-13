@@ -6,7 +6,7 @@ description: Emerging artist.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "boonil.com/"
+  url: "http://boonil.com/"
 
 header: images/logo.png
 
