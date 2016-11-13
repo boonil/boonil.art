@@ -31,5 +31,11 @@ arts:
   title: 
   artist: "Boonil"
 description: "Boonil 2014"
+
+- image: "images/galleries/illustration/itzpapalotl.jpg"
+  order: "6"
+  title: 
+  artist: "Boonil"
+description: "Boonil 2014"
   
 ---
