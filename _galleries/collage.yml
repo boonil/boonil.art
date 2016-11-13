@@ -1,0 +1,23 @@
+---
+name: "collage"
+arts:
+# Column 1
+- image: "images/galleries/collage/manos1.jpg"
+  order: "1"
+  title: 
+  artist: "Boonil"
+  description: "Exploración de manos, Boonil 2013"
+
+- image: "images/galleries/collage/manos2.jpg"
+  order: "2"
+  title: 
+  artist: "Boonil"
+  description: "Exploración de manos, Boonil 2013"
+  
+- image: "images/galleries/collage/manos3.jpg"
+  order: "3"
+  title: 
+  artist: "Boonil"
+  description: "Exploración de manos, Boonil 2013"
+  
+---
