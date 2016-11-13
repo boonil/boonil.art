@@ -14,13 +14,13 @@ arts:
   artist: "Boonil"
   description: "Boonil 2016"
   
-- image: "images/galleries/illustration/Core2.jpg"
+- image: "images/galleries/illustration/Core1.jpg"
   order: "3"
   title: 
   artist: "Boonil"
   description: "Boonil 2014"
 
-- image: "images/galleries/illustration/Core1.jpg"
+- image: "images/galleries/illustration/Core2.jpg"
   order: "4"
   title: 
   artist: "Boonil"
