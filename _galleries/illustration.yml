@@ -2,16 +2,28 @@
 name: "illustration"
 arts:
 # Column 1
-- image: "images/galleries/illustration/corn.jpg"
+- image: "images/galleries/illustration/maiz.jpg"
   order: "1"
-  title: "popcorn time"
+  title: 
   artist: "Boonil"
-  description:  "bla bla bla"
+  description: "Boonil 2016"
 
 - image: "images/galleries/illustration/muerte.jpg"
   order: "2"
-  title: "smells like graveyard"
+  title: 
   artist: "Boonil"
-  description: "meow woof foo"
+  description: "Boonil 2016"
+  
+  - image: "images/galleries/illustration/Core2.jpg"
+  order: "3"
+  title: 
+  artist: "Boonil"
+  description: "Boonil 2014"
 
+- image: "images/galleries/illustration/Core1.jpg"
+  order: "4"
+  title: 
+  artist: "Boonil"
+  description: "Boonil 2014"
+  
 ---
