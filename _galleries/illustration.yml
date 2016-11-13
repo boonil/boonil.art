@@ -14,7 +14,7 @@ arts:
   artist: "Boonil"
   description: "Boonil 2016"
   
-  - image: "images/galleries/illustration/Core2.jpg"
+- image: "images/galleries/illustration/Core2.jpg"
   order: "3"
   title: 
   artist: "Boonil"
