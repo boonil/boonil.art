@@ -12,10 +12,7 @@ El trabajo de Boonil tiene lugar en un campo experimental, donde plataformas an�
 
 
 
-
-
-
-English
+<span style="color:orange">English</span>
 
 
 Boonil, born and raised in Mexico City. Her development begins in the workshop of the painter Ulises Ponce de Leon, at the Escuela Nacional de Artes Plásticas (ENAP), UNAM. She studied Digital Design at the Instituto de Investigación en Comunicación y Cultura (ICONOS) in Mexico City. She earned a degree as Web Designer at Centro de Tecnología Web (CTW) and DGSCA_UNAM in the Universidad Nacional Autónoma de México. She has participated in several courses in digital photography and illustration in different cultural spaces in Mexico City such as Centro Multimedia del Centro Nacional de las Artes CENART, Centro Cultural España-México, Laboratorio de Arte Alameda and Centro Cultural Border. Currently she has completed the degree in Visual Arts at the Escuela Nacional de Pintura, Escultura y Grabado "La Esmeralda" in Mexico City, where she was awarded with an scholarship exchange for one year at the University of Art: Hochschule für Bildende Künste in Braunschweig, Germany during 2014-2015.
