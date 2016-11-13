@@ -1,0 +1,17 @@
+---
+name: "illustration"
+arts:
+# Column 1
+- image: "images/galleries/illustration/corn.jpg"
+  order: "1"
+  title: "popcorn time"
+  artist: "Boonil"
+  description:  "bla bla bla"
+
+- image: "images/galleries/illustration/muerte.jpg"
+  order: "2"
+  title: "smells like graveyard"
+  artist: "Boonil"
+  description: "meow woof foo"
+
+---

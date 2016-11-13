@@ -1,0 +1,46 @@
+- title: "Video"
+  subcategories:
+    - subtitle: "silence, fragment of a story"
+      subhref: "/video/silence"
+    - subtitle: "labyrinth"
+      subhref: "/video/labyrinth"
+
+- title: "Animation"
+  subcategories:
+    - subtitle: "it was not a dream"
+      subhref: "/animation/not-a-dream"
+
+- title: "Performance"
+  subcategories:
+    - subtitle: "warm blood, the heart calls us to reflect"
+      subhref: "/performance/warm-blood"
+
+- title: "Installation"
+  href: "/installation/"
+  # subcategories:
+  #   - subtitle: "later"
+  #     subhref: "/installation/later"
+
+- title: "Sculpture"
+  href: "/sculpture/"
+
+- title: "Drawing"
+  href: "/drawing/"
+
+- title: "Collage"
+  href: "/collage/"
+
+- title: "Illustration"
+  href: "/illustration/"
+
+- title: "Updates"
+  href: "/updates/"
+
+- title: "Semblance"
+  href: "/semblance/"
+
+- title: "Statement"
+  href: "/statement/"
+
+- title: "Contact"
+  href: "/contact/"
