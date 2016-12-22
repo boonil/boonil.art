@@ -6,6 +6,6 @@ permalink: "/performance/warm-blood"
 
 # Warm blood, the heart calls us to reflect
 
-<iframe src="https://player.vimeo.com/video/165350006" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/165350006" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
