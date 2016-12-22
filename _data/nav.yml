@@ -1,3 +1,18 @@
+- title: "Installation"
+  href: "/installation/"
+  # subcategories:
+  #   - subtitle: "later"
+  #     subhref: "/installation/later"
+
+- title: "Sculpture"
+  href: "/sculpture"
+
+- title: "Drawing/Painting"
+  href: "/drawing"
+
+- title: "Collage"
+  href: "/collage"
+  
 - title: "Video"
   subcategories:
     - subtitle: "silence, fragment of a story"
@@ -14,21 +29,6 @@
   subcategories:
     - subtitle: "warm blood, the heart calls us to reflect"
       subhref: "/performance/warm-blood"
-
-- title: "Installation"
-  href: "/installation/"
-  # subcategories:
-  #   - subtitle: "later"
-  #     subhref: "/installation/later"
-
-- title: "Sculpture"
-  href: "/sculpture"
-
-- title: "Drawing"
-  href: "/drawing"
-
-- title: "Collage"
-  href: "/collage"
 
 - title: "Illustration"
   href: "/illustration"
