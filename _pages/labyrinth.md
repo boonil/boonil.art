@@ -6,7 +6,7 @@ permalink: "/video/labyrinth"
 
 # Labyrinth
 
-<iframe src="https://player.vimeo.com/video/102436263" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/102436263" width="960" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 "La Cacama" es un lugar en Iztapalapa (México), clasificado como área insegura con alta tasa de asaltos. El video destaca las características del espacio laberíntico revelando emociones de tensión e intriga.
