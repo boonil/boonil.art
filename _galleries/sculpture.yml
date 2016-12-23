@@ -2,13 +2,13 @@
 name: "sculpture"
 arts:
 # Column 1
-- image: "images/galleries/sculpture/j.jpg"
+- image: "images/galleries/sculpture/j.png"
   order: "10"
   title: 
   artist: "Boonil Bej"
   description:
 
-- image: "images/galleries/sculpture/i.jpg"
+- image: "images/galleries/sculpture/i.png"
   order: "9"
   title: 
   artist: "Boonil Bej"
