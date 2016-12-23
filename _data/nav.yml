@@ -5,7 +5,9 @@
   #     subhref: "/installation/later"
 
 - title: "Sculpture"
-  href: "/sculpture"
+  subcategories:
+    - subtitle: "A la luz"
+      subhref: "/sculpture/a-la-luz"
 
 - title: "Drawing/Painting"
   href: "/drawing"
