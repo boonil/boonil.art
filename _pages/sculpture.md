@@ -1,9 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: sculpture
 permalink: "/sculpture/"
 ---   
-
-# Sculpture
-
-soon...
