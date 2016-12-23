@@ -2,11 +2,6 @@
 name: "sculpture"
 arts:
 # Column 1
-- image: "images/galleries/sculpture/j.png"
-  order: "1"
-  title: "A la luz, fui lo que eres" 
-  artist: "Boonil Bej"
-  description: "Madera, cera y pigmentos naturales 2013"
 
 - image: "images/galleries/sculpture/i.png"
   order: "2"
@@ -64,5 +59,11 @@ arts:
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
+  
+- image: "images/galleries/sculpture/j.png"
+  order: "1"
+  title: "A la luz, fui lo que eres" 
+  artist: "Boonil Bej"
+  description: "Madera, cera y pigmentos naturales 2013"
   
 ---
