@@ -1,0 +1,8 @@
+---
+name: "Sculpture"
+projects:
+# Column 1
+- image: "images/projects/a-la-luz/i.png"
+  name: "A la luz"
+  page: "sculpture/a-la-luz"
+---

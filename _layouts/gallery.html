@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="masonry">
     <div>  {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
         <div class="masonry-panel">
@@ -9,6 +10,14 @@ layout: default
             </a>
         </div>{% endfor %} {% endif %} {% endfor %}
     </div>
+</div>
+
+<div class="row">
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
 </div>
 
 {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}

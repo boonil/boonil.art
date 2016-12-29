@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: illustration
+title: Illustration
 permalink: "/illustration/"
---- 
+---

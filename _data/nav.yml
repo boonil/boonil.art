@@ -1,42 +1,29 @@
 - title: "Installation"
   href: "/installation/"
-  # subcategories:
-  #   - subtitle: "later"
-  #     subhref: "/installation/later"
 
 - title: "Sculpture"
-  subcategories:
-    - subtitle: "A la luz de lo que eres fui"
-      subhref: "/sculpture/a-la-luz"
+  href: "/sculpture/"
 
 - title: "Drawing/Painting"
-  href: "/drawing"
+  href: "/drawing+painting/"
 
 - title: "Collage"
-  href: "/collage"
-  
+  href: "/collage/"
+
 - title: "Video"
-  subcategories:
-    - subtitle: "silence, fragment of a story"
-      subhref: "/video/silence"
-    - subtitle: "labyrinth"
-      subhref: "/video/labyrinth"
+  href: "/video/"
 
 - title: "Animation"
-  subcategories:
-    - subtitle: "it was not a dream"
-      subhref: "/animation/not-a-dream"
+  href: "/animation/"
 
 - title: "Performance"
-  subcategories:
-    - subtitle: "warm blood, the heart calls us to reflect"
-      subhref: "/performance/warm-blood"
+  href: "/performance/"
 
 - title: "Illustration"
   href: "/illustration"
 
 - title: "Updates"
-  href: "/updates"
+  href: "/updates/"
 
 - title: "Semblance"
   href: "/semblance"

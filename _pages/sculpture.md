@@ -1,5 +1,5 @@
 ---
-layout: gallery
-title: sculpture
+layout: category
+title: Sculpture
 permalink: "/sculpture/"
 ---   

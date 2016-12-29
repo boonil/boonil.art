@@ -1,66 +1,66 @@
 ---
-name: "sculpture"
+name: "a-la-luz"
 arts:
 # Column 1
 
-- image: "images/galleries/sculpture/j.png"
+- image: "images/projects/a-la-luz/j.png"
   order: "9"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/i.png"
+
+- image: "images/projects/a-la-luz/i.png"
   order: "2"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/h.jpg"
+
+- image: "images/projects/a-la-luz/h.jpg"
   order: "3"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/g.jpg"
+
+- image: "images/projects/a-la-luz/g.jpg"
   order: "4"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/f.jpg"
+
+- image: "images/projects/a-la-luz/f.jpg"
   order: "5"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/e.jpg"
+
+- image: "images/projects/a-la-luz/e.jpg"
   order: "6"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/d.jpg"
+
+- image: "images/projects/a-la-luz/d.jpg"
   order: "7"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle"
-  
-- image: "images/galleries/sculpture/c.jpg"
+
+- image: "images/projects/a-la-luz/c.jpg"
   order: "8"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/b.jpg"
+
+- image: "images/projects/a-la-luz/b.jpg"
   order: "10"
   title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Detalle. Madera, cera y pigmentos naturales 2013"
-  
-- image: "images/galleries/sculpture/a.jpg"
+
+- image: "images/projects/a-la-luz/a.jpg"
   order: "1"
-  title: "A la luz, fui lo que eres" 
+  title: "A la luz, fui lo que eres"
   artist: "Boonil Bej"
   description: "Madera, cera y pigmentos naturales 2013"
-  
+
 ---

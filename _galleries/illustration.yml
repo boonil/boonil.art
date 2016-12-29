@@ -1,41 +1,41 @@
 ---
-name: "illustration"
+name: "Illustration"
 arts:
 # Column 1
 - image: "images/galleries/illustration/Maiz.jpg"
   order: "1"
-  title: 
+  title:
   artist: "Boonil"
   description: "Boonil 2016"
 
 - image: "images/galleries/illustration/muerte.jpg"
   order: "2"
-  title: 
+  title:
   artist: "Boonil"
   description: "Boonil 2016"
-  
+
 - image: "images/galleries/illustration/Core1.jpg"
   order: "3"
-  title: 
+  title:
   artist: "Boonil"
   description: "Boonil 2014"
 
 - image: "images/galleries/illustration/Core2.jpg"
   order: "4"
-  title: 
+  title:
   artist: "Boonil"
   description: "Boonil 2014"
-  
+
 - image: "images/galleries/illustration/smile.jpg"
   order: "5"
-  title: 
+  title:
   artist: "Boonil"
   description: "Boonil 2014"
 
 - image: "images/galleries/illustration/itzpapalotl.jpg"
   order: "6"
-  title: 
+  title:
   artist: "Boonil"
   description: "Boonil 2014"
-  
+
 ---
