@@ -14,18 +14,6 @@ arts:
   artist: "Boonil Bej"
   description: "Instalación, técnica Mixta,2016"
   
-- image: "images/projects/entropy/3.JPG"
-  order: 
-  title: "Entropía de la metamorfosis"
-  artist: "Boonil Bej"
-  description: "Instalación, técnica Mixta,2016"
-  
-- image: "images/projects/entropy/4.JPG"
-  order: 
-  title: "Entropía de la metamorfosis"
-  artist: "Boonil Bej"
-  description: "Instalación, técnica Mixta,2016"
-  
 - image: "images/projects/entropy/5.JPG"
   order: 
   title: "Entropía de la metamorfosis"
@@ -81,12 +69,6 @@ arts:
   description: "Instalación, técnica Mixta,2016"
   
 - image: "images/projects/entropy/14.JPG"
-  order: 
-  title: "Entropía de la metamorfosis"
-  artist: "Boonil Bej"
-  description: "Instalación, técnica Mixta,2016"
-  
-- image: "images/projects/entropy/15.JPG"
   order: 
   title: "Entropía de la metamorfosis"
   artist: "Boonil Bej"
@@ -181,11 +163,6 @@ arts:
   title: "Entropía de la metamorfosis"
   artist: "Boonil Bej"
   description: "Instalación, técnica Mixta,2016"
-  
-- image: "images/projects/entropy/31.JPG"
-  order: 
-  title: "Entropía de la metamorfosis"
-  artist: "Boonil Bej"
-  description: "Instalación, técnica Mixta,2016"
+ 
 
   
