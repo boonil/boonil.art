@@ -1,9 +1,5 @@
 ---
-layout: page
-title: installation
+layout: category
+title: Installation
 permalink: "/installation/"
 ---   
-
-# Installation
-
-soon...

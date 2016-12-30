@@ -4,8 +4,6 @@ title: Statement
 permalink: "/statement"
 ---
 
-# Statement
-
 El arte es social y existe para hacernos mejores personas.
 
 

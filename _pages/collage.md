@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: collage
+title: Collage
 permalink: "/collage/"
---- 
+---

@@ -1,13 +1,11 @@
 ---
 layout: page
-title: semblance
+title: Semblance
 permalink: "/semblance"
 ---
 
-# Semblance
-
 Boonil, nació y creció en la Ciudad de México. Su trabajo comenzó en el taller del maestro Ulises Ponce de León, en la Escuela Nacional de Artes Plásticas (ENAP) de la UNAM. Estudió Diseño Digital en el Instituto de Investigación en Comunicación y Cultura (ICONOS) en la Ciudad de México. Obtuvo un diploma como diseñadora de páginas web en el Centro de Tecnología Web (CTW) y DGSCA_UNAM en la Universidad Nacional Autónoma de México. Ha participado en varios cursos de fotografía digital e ilustración en diferentes espacios culturales de la Ciudad de México como el Centro Multimedia del Centro Nacional de las Artes (CENART), Centro Cultural España-México (CCEMx), Laboratorio de Arte Alameda y Centro Cultural Border. Actualmente ha completado el grado de Licenciatura en Artes Visuales en la Escuela Nacional de Pintura, Escultura y Grabado “La Esmeralda” en la Ciudad de México, donde fue beneficiada con una beca de intercambio por un año en la Universidad de Arte: Hochschule für Bildende Künste en Braunschweig, Alemania durante 2014-2015.
- 
+
 El trabajo de Boonil tiene lugar en un campo experimental, donde plataformas análogas y digitales son parte de sus procesos creativos que se extienden a través de múltiples medios como son: instalación, video, animación, escultura, dibujo, ilustración digital y collage.
 
 

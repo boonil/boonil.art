@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="row">
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+
+<div class="row category">
+    <div>  {% for category in site.categories %} {% if category.name == page.title %} {% for project in category.projects %}
+        <section>
+            <a href="/{{ project.page }}">
+                <img src="{{ site.github.url }}/{{ project.image }}" alt="{{ project.name }}">
+                <h3> {{ project.name }}</h3>
+            </a>
+        </section>{% endfor %} {% endif %} {% endfor %}
+    </div>
+</div>
