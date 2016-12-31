@@ -38,4 +38,40 @@ arts:
   artist: "Boonil"
   description: "Boonil 2014"
 
+- image: "images/galleries/illustration/ElserManos.jpg"
+  order: "7"
+  title:
+  artist: "Boonil"
+  description: "Boonil 2016"
+
+- image: "images/galleries/illustration/vuelodePájaro.jpg"
+  order: "8"
+  title:
+  artist: "Boonil"
+  description: "Boonil 2015"
+
+- image: "images/galleries/illustration/cuento1.jpg"
+  order: "9"
+  title:
+  artist: "Boonil"
+  description: "Boonil 2014"
+
+- image: "images/galleries/illustration/cuento2.jpg"
+  order: "10"
+  title:
+  artist: "Boonil"
+  description: "Boonil 2014"
+
+- image: "images/galleries/illustration/cuento3.jpg"
+  order: "11"
+  title:
+  artist: "Boonil"
+  description: "Boonil 2014"
+
+- image: "images/galleries/illustration/Campo.jpg"
+  order: "12"
+  title:
+  artist: "Boonil"
+  description: "Boonil 2015"
+
 ---
