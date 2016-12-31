@@ -2,8 +2,194 @@
 name: "dibujos-varios"
 arts:
 
-- image: "images/projects/a-la-luz/j.png"
+- image: "images/projects/dibujos-varios/e1.jpg"
   order: "9"
-  title: "A la luz, fui lo que eres"
+  title: "Dibujos Varios"
   artist: "Boonil Bej"
-  description: "Detalle. Madera, cera y pigmentos naturales 2013"
+  description: "El hombre Verde, s/f"
+
+- image: "images/projects/dibujos-varios/e9.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "La cazadora, s/f"
+  
+- image: "images/projects/dibujos-varios/e14.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "El labio mordido, s/f"
+  
+- image: "images/projects/dibujos-varios/e36.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Guerrilla, s/f"
+  
+- image: "images/projects/dibujos-varios/e18.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Ocultamiento, s/f"
+  
+- image: "images/projects/dibujos-varios/e32.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Mirtha, s/f"  
+  
+- image: "images/projects/dibujos-varios/e23.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Travesura, s/f"
+  
+- image: "images/projects/dibujos-varios/e25.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "En el camino, s/f"
+  
+- image: "images/projects/dibujos-varios/e24.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Hana, s/f"
+
+- image: "images/projects/dibujos-varios/e17.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "La locura cura, s/f"
+  
+- image: "images/projects/dibujos-varios/e16.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Introspección, s/f"
+  
+- image: "images/projects/dibujos-varios/e37.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Velos, s/f"
+  
+- image: "images/projects/dibujos-varios/e15.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Ésta fui, s/f"
+
+- image: "images/projects/dibujos-varios/e11.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "El guardián, s/f"
+  
+- image: "images/projects/dibujos-varios/e4.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Con el Pez, s/f"
+  
+- image: "images/projects/dibujos-varios/e28.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "La Leona y la Musa, s/f"
+  
+- image: "images/projects/dibujos-varios/e21.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Mi cuerpo, s/f"  
+  
+- image: "images/projects/dibujos-varios/e10.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "La fiesta, s/f"
+  
+- image: "images/projects/dibujos-varios/30.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "La fiesta, s/f"
+  
+- image: "images/projects/dibujos-varios/e22.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "La fiesta, s/f"
+
+- image: "images/projects/dibujos-varios/e5.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Fusión, s/f"
+
+- image: "images/projects/dibujos-varios/e27.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Ella, s/f"
+  
+- image: "images/projects/dibujos-varios/e35.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Esto es lo que miro, s/f"
+  
+- image: "images/projects/dibujos-varios/e20.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Sirenas, s/f"
+
+- image: "images/projects/dibujos-varios/e26.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Siempre hay algo más, s/f"  
+  
+- image: "images/projects/dibujos-varios/e6.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Caminante, s/f"
+
+- image: "images/projects/dibujos-varios/e29.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Aburrimiento, s/f"
+  
+- image: "images/projects/dibujos-varios/e19.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Obligadamente posando, s/f"
+  
+- image: "images/projects/dibujos-varios/e3.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Un nuevo perfume, s/f"
+ 
+- image: "images/projects/dibujos-varios/e2.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "Escudriñando, s/f"
+  
+- image: "images/projects/dibujos-varios/Escanear.jpg"
+  order: "9"
+  title: "Dibujos Varios"
+  artist: "Boonil Bej"
+  description: "EL acupunturista, s/f"
+  
+
+
+  
+
+
