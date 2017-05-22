@@ -1,4 +1,7 @@
 ---
 name: "Animation"
 projects:
+- image: "/images/projects/not-a-dream/vid.jpg"
+  name: "It was not a dream"
+  page: "animation/not-a-dream"
 ---
