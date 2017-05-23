@@ -25,11 +25,11 @@
 - title: "Updates"
   href: "/updates/"
 
-- title: "Semblance"
-  href: "/semblance"
+#- title: "Semblance"
+ # href: "/semblance"
 
-#- title: "Statement"
- # href: "/statement"
+- title: "Statement"
+  href: "/statement"
 
 - title: "Contact"
   href: "/contact"
