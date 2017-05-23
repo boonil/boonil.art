@@ -28,8 +28,8 @@
 - title: "Semblance"
   href: "/semblance"
 
-- title: "Statement"
-  href: "/statement"
+#- title: "Statement"
+ # href: "/statement"
 
 - title: "Contact"
   href: "/contact"
