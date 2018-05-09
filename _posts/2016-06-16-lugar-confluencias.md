@@ -13,4 +13,4 @@ facebook_image: images/posts/lugar-confluencias.jpg
 
 Exposición Colectiva/Collective Exhibition
 
-![lugar-confluencias](https://github.com/boonil/boonil.com/blob/gh-pages/images/posts/lugar-confluencias.jpg?raw=true)
+![lugar-confluencias](https://github.com/boonil/boonil.art/blob/gh-pages/images/posts/lugar-confluencias.jpg?raw=true)
