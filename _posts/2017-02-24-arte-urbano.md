@@ -13,4 +13,4 @@ facebook_image: images/posts/arte-urbano.jpg
 
 Exposición Colectiva/Collective Exhibition
 
-![arte urbano](https://github.com/boonil/boonil.com/blob/gh-pages/images/posts/arte-urbano.jpg?raw=true)
+![arte urbano](https://github.com/boonil/boonil.art/blob/gh-pages/images/posts/arte-urbano.jpg?raw=true)
