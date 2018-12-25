@@ -1,7 +1,0 @@
----
-name: "Installation"
-projects:
-- image: "images/projects/entropy/1.JPG"
-  name: "Entropía de la metamorfosis"
-  page: "installation/entropy"
----

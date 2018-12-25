@@ -1,50 +1,164 @@
----
-layout: null
-sitemap: false
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% capture site_url %}{% if site.url %}{{ site.url | append: site.github.url }}{% else %}{{ site.github.url }}{% endif %}{% endcapture %}
-  {% for post in site.posts %}{% unless post.sitemap == false %}
+  
+  
   <url>
-    <loc>{{ post.url | prepend: site_url | uri_escape }}</loc>
-    {% if post.last_modified_at %}
-    <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
-    {% else %}
-    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-    {% endif %}
+    <loc>http://boonil.art/updates/2017/mutante-festival</loc>
+    
+    <lastmod>2017-04-14T00:00:00-05:00</lastmod>
+    
   </url>
-  {% endunless %}{% endfor %}
-  {% for page in site.html_pages %}{% unless page.sitemap == false %}
+  
   <url>
-    <loc>{{ page.url | replace:'/index.html','/' | prepend: site_url | uri_escape }}</loc>
-    {% if page.last_modified_at %}
-    <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
-    {% endif %}
+    <loc>http://boonil.art/updates/2017/arte-urbano</loc>
+    
+    <lastmod>2017-02-24T00:00:00-06:00</lastmod>
+    
   </url>
-  {% endunless %}{% endfor %}
-  {% for collection in site.collections %}{% unless collection.last.output == false or collection.output == false %}
-  {% for doc in collection.last.docs %}{% unless doc.sitemap == false %}
+  
   <url>
-    <loc>{{ doc.url | replace:'/index.html','/' | prepend: site_url | uri_escape }}</loc>
-    {% if doc.last_modified_at %}
-    <lastmod>{{ doc.last_modified_at | date_to_xmlschema }}</lastmod>
-    {% endif %}
+    <loc>http://boonil.art/updates/2016/lugar-confluencias</loc>
+    
+    <lastmod>2016-06-16T00:00:00-05:00</lastmod>
+    
   </url>
-  {% endunless %}{% endfor %}
-  {% for doc in collection.docs %}{% unless doc.sitemap == false %}
+  
+  <url>
+    <loc>http://boonil.art/updates/2015/casa-kan</loc>
+    
+    <lastmod>2015-06-20T00:00:00-05:00</lastmod>
+    
+  </url>
+  
+  
+  <url>
+    <loc>http://boonil.art/404.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/sculpture/a-la-luz</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/animation/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/collage/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/contact</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/drawing+painting/dibujos-varios</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/drawing+painting/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/installation/entropy</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/illustration/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/installation/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/video/labyrinth</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/animation/not-a-dream</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/performance/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/sculpture/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/semblance</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/video/silence</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/statement</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/updates/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/video/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://boonil.art/performance/warm-blood</loc>
+    
+  </url>
+  
+  
+  
+  
     <url>
-      <loc>{{ doc.url | replace:'/index.html','/' | prepend: site_url | uri_escape }}</loc>
-      {% if doc.last_modified_at %}
-      <lastmod>{{ doc.last_modified_at | date_to_xmlschema }}</lastmod>
-      {% endif %}
+      <loc>http://boonil.art/updates/2015/casa-kan</loc>
+      
     </url>
-  {% endunless %}{% endfor %}
-  {% endunless %}{% endfor %}
-  {% for file in site.html_files %}
-  <url>
-    <loc>{{ file.path | prepend: site_url | uri_escape }}</loc>
-    <lastmod>{{ file.modified_time | date_to_xmlschema }}</lastmod>
-  </url>
-  {% endfor %}
+  
+    <url>
+      <loc>http://boonil.art/updates/2016/lugar-confluencias</loc>
+      
+    </url>
+  
+    <url>
+      <loc>http://boonil.art/updates/2017/arte-urbano</loc>
+      
+    </url>
+  
+    <url>
+      <loc>http://boonil.art/updates/2017/mutante-festival</loc>
+      
+    </url>
+  
+  
+  
 </urlset>
